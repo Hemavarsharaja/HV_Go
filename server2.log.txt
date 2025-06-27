@@ -1,0 +1,3 @@
+ERROR: Disk space critically low
+INFO: Cleanup job started
+INFO: Cleanup job completed

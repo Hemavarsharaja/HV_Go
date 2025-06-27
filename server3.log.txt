@@ -1,0 +1,3 @@
+INFO: Listening on port 8080
+ERROR: Unable to open config file
+INFO: Health check passed

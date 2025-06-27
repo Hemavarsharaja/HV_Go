@@ -1,0 +1,4 @@
+ERROR: Unable to open config file
+ERROR: Disk space critically low
+ERROR: Failed to connect to database
+ERROR: Timeout occurred while processing request
